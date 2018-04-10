@@ -1,0 +1,55 @@
+﻿生成启动时间为 2018/3/8 15:13:06。
+     1>项目“E:\code\osiplib\exosip\platform\vsnet\libcares.vcxproj”在节点 2 上(Build 个目标)。
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\code\osiplib\exosip\platform\vsnet\v140\x64\Release\libcares.lib" /NOLOGO /MACHINE:X64 libcares\x64\Release\ares__close_sockets.obj
+         libcares\x64\Release\ares__get_hostent.obj
+         libcares\x64\Release\ares__read_line.obj
+         libcares\x64\Release\ares__timeval.obj
+         libcares\x64\Release\ares_cancel.obj
+         libcares\x64\Release\ares_data.obj
+         libcares\x64\Release\ares_destroy.obj
+         libcares\x64\Release\ares_expand_name.obj
+         libcares\x64\Release\ares_expand_string.obj
+         libcares\x64\Release\ares_fds.obj
+         libcares\x64\Release\ares_free_hostent.obj
+         libcares\x64\Release\ares_free_string.obj
+         libcares\x64\Release\ares_gethostbyaddr.obj
+         libcares\x64\Release\ares_gethostbyname.obj
+         libcares\x64\Release\ares_getnameinfo.obj
+         libcares\x64\Release\ares_getopt.obj
+         libcares\x64\Release\ares_getsock.obj
+         libcares\x64\Release\ares_init.obj
+         libcares\x64\Release\ares_library_init.obj
+         libcares\x64\Release\ares_llist.obj
+         libcares\x64\Release\ares_mkquery.obj
+         libcares\x64\Release\ares_nowarn.obj
+         libcares\x64\Release\ares_options.obj
+         libcares\x64\Release\ares_parse_a_reply.obj
+         libcares\x64\Release\ares_parse_aaaa_reply.obj
+         libcares\x64\Release\ares_parse_mx_reply.obj
+         libcares\x64\Release\ares_parse_ns_reply.obj
+         libcares\x64\Release\ares_parse_ptr_reply.obj
+         libcares\x64\Release\ares_parse_srv_reply.obj
+         libcares\x64\Release\ares_parse_txt_reply.obj
+         libcares\x64\Release\ares_process.obj
+         libcares\x64\Release\ares_query.obj
+         libcares\x64\Release\ares_search.obj
+         libcares\x64\Release\ares_send.obj
+         libcares\x64\Release\ares_strcasecmp.obj
+         libcares\x64\Release\ares_strdup.obj
+         libcares\x64\Release\ares_strerror.obj
+         libcares\x64\Release\ares_timeout.obj
+         libcares\x64\Release\ares_version.obj
+         libcares\x64\Release\ares_writev.obj
+         libcares\x64\Release\bitncmp.obj
+         libcares\x64\Release\inet_net_pton.obj
+         libcares\x64\Release\inet_ntop.obj
+         libcares\x64\Release\windows_port.obj
+         libcares\x64\Release\ares_platform.obj
+         libcares\x64\Release\ares_create_query.obj
+         libcares.vcxproj -> E:\code\osiplib\exosip\platform\vsnet\v140\x64\Release\libcares.lib
+     1>已完成生成项目“E:\code\osiplib\exosip\platform\vsnet\libcares.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.42

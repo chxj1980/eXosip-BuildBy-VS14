@@ -1,0 +1,43 @@
+﻿生成启动时间为 2018/3/8 15:13:07。
+     1>项目“E:\code\osiplib\exosip\platform\vsnet\eXosip.vcxproj”在节点 2 上(Build 个目标)。
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\code\osiplib\exosip\platform\vsnet\v140\x64\Release\eXosip.lib" /NOLOGO /MACHINE:X64 eXosip\x64\Release\eXcall_api.obj
+         eXosip\x64\Release\eXconf.obj
+         eXosip\x64\Release\eXinsubscription_api.obj
+         eXosip\x64\Release\eXmessage_api.obj
+         eXosip\x64\Release\eXoptions_api.obj
+         eXosip\x64\Release\eXosip.obj
+         eXosip\x64\Release\eXpublish_api.obj
+         eXosip\x64\Release\eXrefer_api.obj
+         eXosip\x64\Release\eXregister_api.obj
+         eXosip\x64\Release\eXsubscription_api.obj
+         eXosip\x64\Release\eXtl_dtls.obj
+         eXosip\x64\Release\eXtl_tcp.obj
+         eXosip\x64\Release\eXtl_tls.obj
+         eXosip\x64\Release\eXtl_udp.obj
+         eXosip\x64\Release\eXtransport.obj
+         eXosip\x64\Release\eXutils.obj
+         eXosip\x64\Release\inet_ntop.obj
+         eXosip\x64\Release\jauth.obj
+         eXosip\x64\Release\jcall.obj
+         eXosip\x64\Release\jcallback.obj
+         eXosip\x64\Release\jdialog.obj
+         eXosip\x64\Release\jevents.obj
+         eXosip\x64\Release\jnotify.obj
+         eXosip\x64\Release\jpipe.obj
+         eXosip\x64\Release\jpublish.obj
+         eXosip\x64\Release\jreg.obj
+         eXosip\x64\Release\jrequest.obj
+         eXosip\x64\Release\jresponse.obj
+         eXosip\x64\Release\jsubscribe.obj
+         eXosip\x64\Release\milenage.obj
+         eXosip\x64\Release\misc.obj
+         eXosip\x64\Release\rijndael.obj
+         eXosip\x64\Release\sdp_offans.obj
+         eXosip\x64\Release\udp.obj
+         eXosip.vcxproj -> E:\code\osiplib\exosip\platform\vsnet\v140\x64\Release\eXosip.lib
+     1>已完成生成项目“E:\code\osiplib\exosip\platform\vsnet\eXosip.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.42

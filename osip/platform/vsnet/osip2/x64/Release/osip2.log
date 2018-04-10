@@ -1,0 +1,27 @@
+﻿生成启动时间为 2018/3/8 15:13:06。
+     1>项目“E:\code\osiplib\osip\platform\vsnet\osip2.vcxproj”在节点 2 上(Build 个目标)。
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\code\osiplib\exosip\platform\vsnet\v140\x64\Release\osip2.lib" /NOLOGO /MACHINE:X64 osip2\x64\Release\fsm_misc.obj
+         osip2\x64\Release\ict.obj
+         osip2\x64\Release\ict_fsm.obj
+         osip2\x64\Release\ist.obj
+         osip2\x64\Release\ist_fsm.obj
+         osip2\x64\Release\nict.obj
+         osip2\x64\Release\nict_fsm.obj
+         osip2\x64\Release\nist.obj
+         osip2\x64\Release\nist_fsm.obj
+         osip2\x64\Release\osip.obj
+         osip2\x64\Release\osip_dialog.obj
+         osip2\x64\Release\osip_event.obj
+         osip2\x64\Release\osip_time.obj
+         osip2\x64\Release\osip_transaction.obj
+         osip2\x64\Release\port_condv.obj
+         osip2\x64\Release\port_fifo.obj
+         osip2\x64\Release\port_sema.obj
+         osip2\x64\Release\port_thread.obj
+         osip2.vcxproj -> E:\code\osiplib\exosip\platform\vsnet\v140\x64\Release\osip2.lib
+     1>已完成生成项目“E:\code\osiplib\osip\platform\vsnet\osip2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.33

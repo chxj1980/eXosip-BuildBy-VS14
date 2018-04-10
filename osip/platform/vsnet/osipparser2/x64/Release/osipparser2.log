@@ -1,0 +1,47 @@
+﻿生成启动时间为 2018/3/8 15:13:05。
+     1>项目“E:\code\osiplib\osip\platform\vsnet\osipparser2.vcxproj”在节点 2 上(Build 个目标)。
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\code\osiplib\exosip\platform\vsnet\v140\x64\Release\osipparser2.lib" /NOLOGO /MACHINE:X64 osipparser2\x64\Release\osip_accept.obj
+         osipparser2\x64\Release\osip_accept_encoding.obj
+         osipparser2\x64\Release\osip_accept_language.obj
+         osipparser2\x64\Release\osip_alert_info.obj
+         osipparser2\x64\Release\osip_allow.obj
+         osipparser2\x64\Release\osip_authentication_info.obj
+         osipparser2\x64\Release\osip_authorization.obj
+         osipparser2\x64\Release\osip_body.obj
+         osipparser2\x64\Release\osip_call_id.obj
+         osipparser2\x64\Release\osip_call_info.obj
+         osipparser2\x64\Release\osip_contact.obj
+         osipparser2\x64\Release\osip_content_disposition.obj
+         osipparser2\x64\Release\osip_content_encoding.obj
+         osipparser2\x64\Release\osip_content_length.obj
+         osipparser2\x64\Release\osip_content_type.obj
+         osipparser2\x64\Release\osip_cseq.obj
+         osipparser2\x64\Release\osip_error_info.obj
+         osipparser2\x64\Release\osip_from.obj
+         osipparser2\x64\Release\osip_header.obj
+         osipparser2\x64\Release\osip_list.obj
+         osipparser2\x64\Release\osip_md5c.obj
+         osipparser2\x64\Release\osip_message.obj
+         osipparser2\x64\Release\osip_message_parse.obj
+         osipparser2\x64\Release\osip_message_to_str.obj
+         osipparser2\x64\Release\osip_mime_version.obj
+         osipparser2\x64\Release\osip_parser_cfg.obj
+         osipparser2\x64\Release\osip_port.obj
+         osipparser2\x64\Release\osip_proxy_authenticate.obj
+         osipparser2\x64\Release\osip_proxy_authentication_info.obj
+         osipparser2\x64\Release\osip_proxy_authorization.obj
+         osipparser2\x64\Release\osip_record_route.obj
+         osipparser2\x64\Release\osip_route.obj
+         osipparser2\x64\Release\osip_to.obj
+         osipparser2\x64\Release\osip_uri.obj
+         osipparser2\x64\Release\osip_via.obj
+         osipparser2\x64\Release\osip_www_authenticate.obj
+         osipparser2\x64\Release\sdp_accessor.obj
+         osipparser2\x64\Release\sdp_message.obj
+         osipparser2.vcxproj -> E:\code\osiplib\exosip\platform\vsnet\v140\x64\Release\osipparser2.lib
+     1>已完成生成项目“E:\code\osiplib\osip\platform\vsnet\osipparser2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.39
